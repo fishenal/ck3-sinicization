@@ -1,0 +1,1 @@
+cp -r ./mod/sinicization/. ~/Documents/"Paradox Interactive"/"Crusader Kings III"/mod/sinicization
