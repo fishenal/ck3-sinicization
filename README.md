@@ -22,6 +22,7 @@ sh syncMod.sh
   -  Innovation?
   -  Building
   -  Army
+  -  Laws
  - Others
   - 多妻制，后宫
   - 王和帝王的权利更大，要求的服役更多
@@ -71,8 +72,10 @@ Council -> 朝廷
 | Court Chaplain | 教皇 （中国并无此职位，试图改掉）| 唐朝三公级别高，虽无实权，可选取太师取代 | Taishi |
 | Chancellor | 外交官 | 礼部尚书   | Minister of Rites |
 | Steward | 内务 |中书令, 宰相, 中书省的中书令，首席宰相 | Prime Minister |
-| Marshal | 军事 | 兵部尚书  尚书省兵部主管 或 （骠骑）大将军 | Great General|
+| Marshal | 军事 | 兵部尚书  尚书省兵部主管 或 （骠骑）大将军 | Great（Prime？） General|
 | Spymaster | 间谍 | 刑部尚书 | Minister of Punishment |
+|  |  | 工部尚书 | Minister of Works |
+|  |  | 户部尚书 | Minister of Household |
 
 https://ck3.paradoxwikis.com/Council
 
@@ -93,3 +96,7 @@ Currently Taoism, Buddhism https://ck3.paradoxwikis.com/Religion
 # Building 领地建筑
 
 # Army
+
+# Laws
+
+# Chinese Name
