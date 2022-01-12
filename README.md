@@ -1,5 +1,5 @@
-# Ck3-sinicization
-crusadar king 3 sinicization mod
+# CK3-sinicization
+Crusadar King 3 sinicization mod
 
 # Welcome contribute
 welcome to create issues, PRs
@@ -18,6 +18,16 @@ sh syncMod.sh
   -  Goverment system
   -  Religion - 道教，佛教
   -  Lifestyle？
+  -  Events?
+  -  Innovation?
+  -  Building
+  -  Army
+ - Others
+  - 多妻制，后宫
+  - 王和帝王的权利更大，要求的服役更多
+  - 下级的反叛意愿更低
+  - 王位继承： 制定继承，长子继承
+  - 封地继承： 制定，收回，禁止自动继承
 
 
 # Titles
@@ -67,8 +77,19 @@ Council -> 朝廷
 https://ck3.paradoxwikis.com/Council
 
 # Chinese Name
+Add more family name base on current mod
 
 # Goverment
 
+
 # Religion
-currently Taoism, Buddhism https://ck3.paradoxwikis.com/Religion
+Currently Taoism, Buddhism https://ck3.paradoxwikis.com/Religion
++ 孔子 confucius
+
+# Event
+
+# Innovation
+
+# Building 领地建筑
+
+# Army
