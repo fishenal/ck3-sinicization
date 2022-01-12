@@ -40,6 +40,8 @@ sh syncMod.sh
 | Emperor | 皇帝 | Emperor/Empress |
 | Knight | 将军 | General|
 
+https://ck3.paradoxwikis.com/Culture
+
 # Council characters
 Council -> 朝廷
 ## Currentlly in game
@@ -62,8 +64,11 @@ Council -> 朝廷
 | Marshal | 军事 | 兵部尚书  尚书省兵部主管 或 （骠骑）大将军 | Great General|
 | Spymaster | 间谍 | 刑部尚书 | Minister of Punishment |
 
+https://ck3.paradoxwikis.com/Council
+
 # Chinese Name
 
 # Goverment
 
 # Religion
+currently Taoism, Buddhism https://ck3.paradoxwikis.com/Religion
