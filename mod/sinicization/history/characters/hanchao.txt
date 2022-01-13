@@ -1,54 +1,51 @@
-﻿hangaozu = {
-	name="邦"
-	dynasty=hanchao
-	religion="quanzhen"
-	culture="han"
-	600.1.1={
-		birth=yes
-	}
-	700.1.1={
-		death=yes
-	}
-}
-
-xiaowen = {
-	name="恒"
-	dynasty=hanchao
-	religion="quanzhen"
-	culture="han"
-	father=hangaozu
-	650.1.1={
-		birth=yes
-	}
-	720.1.1={
-		death=yes
-	}
-}
-
-wudi = {
+﻿wudi = {
 	name="彻"
 	dynasty=hanchao
 	religion="quanzhen"
 	culture="han"
-	father=xiaowen
-	680.1.1={
+	1020.1.1={
 		birth=yes
 	}
-	1780.1.1={
+	1100.1.1={
 		death=yes
 	}
 }
 
-xiao = {
-	name="询"
+wudi2 = {
+	name="Heng"
+	dynasty=hanchao
+	religion="quanzhen"
+	culture="han"
+	1020.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+wudi3 = {
+	name="Bei"
+	dynasty=hanchao
+	religion="quanzhen"
+	culture="han"
+	1020.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+wudi4 = {
+	name="恒"
 	dynasty=hanchao
 	religion="quanzhen"
 	culture="han"
 	father=wudi
-	720.1.1={
+	1020.1.1={
 		birth=yes
 	}
-	810.1.1={
+	1100.1.1={
 		death=yes
 	}
 }

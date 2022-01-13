@@ -3,25 +3,18 @@
 		chinese_group_coa_gfx
 	}
 
-	mercenary_names = {
-		{ name = "mercenary_company_haohan_of_place" }
-		{ name = "mercenary_company_haojie_of_place" }
-		{ name = "mercenary_company_xiashi_of_place" }
-		{ name = "mercenary_company_yishi_of_place" }
-		{ name = "mercenary_company_zhuangshi_of_place" }
-		{ name = "mercenary_company_bang_of_place" }
-	}
-
 	han = {
 		color = { 211 44 44 }
+		dynasty_name_first = yes
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
 		cadet_dynasty_names = {
 			"dynn_Wu"
 		}
 		dynasty_names = {
-			"dynn_Li"
-			"dynn_Yu"
+			{ "dyynp_Liu" "dynn_Han" }
 		}
-
+		always_use_patronym = yes
 		male_names = {
 			Ji Deyi
 		}
@@ -29,7 +22,7 @@
 			Anzong Wenshou
 		}
 
-		dynasty_name_first = yes
+
 
 		ethnicities = {
 			10 = asian
