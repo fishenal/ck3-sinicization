@@ -24,11 +24,11 @@ sh syncMod.sh
   -  Army
   -  Laws
  - Others
-  - 多妻制，后宫
-  - 王和帝王的权利更大，要求的服役更多
-  - 下级的反叛意愿更低
-  - 王位继承： 制定继承，长子继承
-  - 封地继承： 制定，收回，禁止自动继承
+  - 多妻制，后宫 - via religions
+  - 王和帝王的权利更大，要求的服役更多 - via goverment, coucil, laws
+  - 下级的反叛意愿更低  - via goverment, coucil, laws
+  - 王位继承： 制定继承，长子继承  - via goverment, coucil, laws
+  - 封地继承： 制定，收回，禁止自动继承  - via goverment, coucil, laws
 
 
 # Titles
