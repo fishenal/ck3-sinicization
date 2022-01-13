@@ -1,0 +1,6 @@
+﻿# Han dynasty
+hanchao = {	#Fictional
+    prefix = "dyynp_Liu"
+	name = "dynn_Han"
+	culture = "han"
+}

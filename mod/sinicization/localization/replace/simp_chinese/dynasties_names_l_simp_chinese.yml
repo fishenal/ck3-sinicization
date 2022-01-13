@@ -1,5 +1,6 @@
 ﻿l_simp_chinese:
-
+  dynn_Han:0 "汉"
+  dynnp_Liu:0 "刘"
 #Old dynasties
  dynn_Li:0 "李"
  dynn_Wu:0 "吴"
@@ -12,7 +13,6 @@
  dynn_Qian:0 "钱"
  dynn_Chen:0 "陈"
  dynn_Chu:0 "褚"
- dynn_Han:0 "韩"
  dynn_Zhu:0 "朱"
  dynn_Qin:0 "秦"
  dynn_You:0 "尤"

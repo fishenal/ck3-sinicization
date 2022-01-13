@@ -1,0 +1,38 @@
+﻿e_zhonghua = {
+	landless = yes
+	capital = c_middlesex
+	k_han = {
+		landless = yes
+		capital = c_middlesex
+		d_youzhou = {
+			landless = yes
+		}
+		d_yangzhou = {
+			landless = yes
+		}
+		d_xuzhou = {
+			landless = yes
+			c_guangling = {
+				culture = cn_great_liao
+				b_jiangdu = {
+					province = 1527
+				}
+				b_gaoyou = {
+					province = 1526
+				}
+			}
+		}
+	}
+	k_wei = {
+		landless = yes
+		capital = c_middlesex
+	}
+	k_shu = {
+		landless = yes
+		capital = c_middlesex
+	}
+	k_jin = {
+		landless = yes
+		capital = c_middlesex
+	}
+}
