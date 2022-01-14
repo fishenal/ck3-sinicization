@@ -1,0 +1,12 @@
+d_henan = {
+    831.1.1 = {
+        holder = lishimin
+		liege = 0
+    }
+}
+c_luoyang = {
+    831.1.1 = {
+		holder = lishimin
+		liege = d_henan
+	}
+}

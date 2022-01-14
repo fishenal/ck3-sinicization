@@ -1,0 +1,183 @@
+﻿e_china = {
+    capital = c_luoyang
+
+    k_henan = {
+        color = { 197 215 217 }
+        color2 = { 20 20 20 }
+
+        capital = c_luoyang # Vannes
+        can_create = {}
+
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:han
+				}
+			}
+		}
+
+	    can_be_named_after_dynasty = yes
+        d_henan = {
+            color = { 166 190 191 }
+
+            capital = c_luoyang # Vannes
+
+            c_luoyang = {
+                color = { 145 170 171 }
+                color2 = { 255 255 255 }
+
+                b_zhengzhou = {
+                    province = 2154
+
+                    color = { 145 170 171 }
+                    color2 = { 255 255 255 }
+
+                }
+                b_kaifeng = {
+                    province = 2163
+
+                    color = { 145 170 171 }
+                    color2 = { 255 255 255 }
+                }
+                b_zhumadian = {
+                    province = 2160
+
+                    color = { 145 170 171 }
+                    color2 = { 255 255 255 }
+                }
+            }
+            c_liaoning = {
+                color = { 131 145 145 }
+                color2 = { 255 255 255 }
+
+                b_dalian = {
+                    province = 2152
+
+                    color = { 131 145 145 }
+                    color2 = { 255 255 255 }
+
+                    cultural_names = {
+                        breton = cn_naoned
+                    }
+                }
+                b_shenyang = {
+                    province = 2151
+
+                    color = { 131 145 145 }
+                    color2 = { 255 255 255 }
+                }
+                b_guerande = {
+                    province = 2153
+
+                    color = { 131 145 145 }
+                    color2 = { 255 255 255 }
+                }
+                b_chateaubriant = {
+                    province = 2166
+
+                    color = { 131 145 145 }
+                    color2 = { 255 255 255 }
+                }
+            }
+            c_jiangsu = {
+                color = { 120 161 161 }
+                color2 = { 255 255 255 }
+
+                b_zhenjiang = {
+                    province = 2156
+
+                    color = { 120 161 161 }
+                    color2 = { 255 255 255 }
+
+                }
+                b_yangzhou = {
+                    province = 2155
+
+                    color = { 120 161 161 }
+                    color2 = { 255 255 255 }
+
+                }
+                b_changzhou = {
+                    province = 2159
+
+                    color = { 120 161 161 }
+                    color2 = { 255 255 255 }
+
+                }
+            }
+            c_shandong = {
+                color = { 69 97 97 }
+                color2 = { 255 255 255 }
+
+                b_heze = {
+                    province = 2157
+
+                    color = { 69 97 97 }
+                    color2 = { 255 255 255 }
+                }
+                b_jinan = {
+                    province = 2158
+
+                    color = { 69 97 97 }
+                    color2 = { 255 255 255 }
+
+                    cultural_names = {
+                        breton = cn_kastell_paol
+                    }
+                }
+            }
+            c_hebei = {
+                color = { 81 133 133 }
+                color2 = { 255 255 255 }
+
+                b_shijiazhuang = {
+                    province = 2162
+
+                    color = { 81 133 133 }
+                    color2 = { 255 255 255 }
+
+                    cultural_names = {
+                        breton = cn_saint_brieg
+                    }
+                }
+                b_tangshan = {
+                    province = 2161
+
+                    color = { 81 133 133 }
+                    color2 = { 255 255 255 }
+                }
+                b_handan = {
+                    province = 2164
+
+                    color = { 81 133 133 }
+                    color2 = { 255 255 255 }
+
+                    cultural_names = {
+                        breton = cn_sant_malou
+                    }
+                }
+            }
+            c_shenghui = {
+                color = { 137 199 199 }
+                color2 = { 255 255 255 }
+
+                b_shanghai = {
+                    province = 2165
+
+                    color = { 137 199 199 }
+                    color2 = { 255 255 255 }
+
+                    cultural_names = {
+                        breton = cn_roazhon
+                    }
+                }
+                b_beijing = {
+                    province = 2282
+
+                    color = { 137 199 199 }
+                    color2 = { 255 255 255 }
+                }
+            }
+        }
+    }
+}
