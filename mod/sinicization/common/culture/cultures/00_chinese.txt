@@ -25,6 +25,7 @@
 			"dynn_Yue"
 			"dynn_Yang"
 			"dynn_Han"
+			"dynn_Cao"
 		}
 		dynasty_names = {
 			"dynn_Li"
@@ -39,6 +40,7 @@
 			"dynn_Yue"
 			"dynn_Yang"
 			"dynn_Han"
+			"dynn_Cao"
 		}
 
 		male_names = {

@@ -1,0 +1,184 @@
+﻿# Zhao family
+zhaohongyin = {
+	name=Hongyin
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	899.1.1={
+		birth=yes
+	}
+	956.1.1={
+		death=yes
+	}
+}
+
+zhaokuangyin = {
+	name=Kuangyin
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaohongyin
+	927.1.1={
+		birth=yes
+	}
+	976.1.1={
+		death=yes
+	}
+}
+
+zhaoguangyi = {
+	name=Guangyi
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaohongyin
+	939.1.1={
+		birth=yes
+	}
+	997.5.8={
+		death=yes
+	}
+}
+
+zhaoheng = {
+	name=Heng
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoguangyi
+	968.12.23={
+		birth=yes
+	}
+	1022.3.23={
+		death=yes
+	}
+}
+
+zhaozhen = {
+	name=Zhen
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoheng
+	1010.5.30={
+		birth=yes
+	}
+	1063.4.30={
+		death=yes
+	}
+}
+
+zhaoshu = {
+	name=Shu
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaozhen
+	1032.2.16={
+		birth=yes
+	}
+	1067.1.25={
+		death=yes
+	}
+}
+
+zhaoxu = {
+	name=Xu
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoshu
+	1048.5.25={
+		birth=yes
+	}
+	1085.4.1={
+		death=yes
+	}
+}
+
+zhaoxu = {
+	name=Xu
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoshu
+	1048.5.25={
+		birth=yes
+	}
+	1085.4.1={
+		death=yes
+	}
+}
+
+zhaojin = {
+	name=Jin
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoxu
+	1075.5.25={
+		birth=yes
+	}
+	1088.1.1={
+		add_spouse = liuhuanghou
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+
+zhaoxun = {
+	name=Xun
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoxu
+	1077.1.4={
+		birth=yes
+	}
+	1100.2.23={
+		death=yes
+	}
+}
+
+zhaoji = {
+	name=Ji
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoxu
+	1082.11.2={
+		birth=yes
+	}
+	1100.1.1={
+		add_spouse = wanghuanghou
+	}
+	1135.6.4={
+		death=yes
+	}
+}
+wanghuanghou = {
+	name=jinghe
+	dynasty=WangFml
+	religion="quanzhen"
+	culture="han"
+	1084.1.1={
+		birth=yes
+	}
+	1108.11.1={
+		death=yes
+	}
+}
+
+liuhuanghou = {
+	name=jinnu
+	dynasty=LiuFml
+	religion="quanzhen"
+	culture="han"
+	1080.1.1={
+		birth=yes
+	}
+	1140.11.1={
+		death=yes
+	}
+}
