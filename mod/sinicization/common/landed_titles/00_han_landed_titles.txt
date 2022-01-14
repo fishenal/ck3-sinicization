@@ -1,8 +1,0 @@
-﻿e_zhonghua = {
-	landless = yes
-	capital = c_middlesex
-	k_han = {
-		landless = yes
-		capital = c_middlesex
-	}
-}

@@ -1,28 +1,52 @@
 ﻿chinese_group = {
 	graphical_cultures = {
 		chinese_group_coa_gfx
+		indian_building_gfx
+		mongol_clothing_gfx
+		mongol_unit_gfx
 	}
 
 	han = {
 		color = { 211 44 44 }
 		dynasty_name_first = yes
-		dynasty_title_names = yes
+		dynasty_title_names = no
 		founder_named_dynasties = yes
+
 		cadet_dynasty_names = {
-			"dynn_Wu"
+			"dynn_Li"
+			"dynn_Liu"
+			"dynn_Zhao"
+			"dynn_Wang"
+			"dynn_Fan"
+			"dynn_Ouyang"
+			"dynn_Su"
+			"dynn_Xin"
+			"dynn_Sima"
+			"dynn_Yue"
+			"dynn_Yang"
+			"dynn_Han"
 		}
 		dynasty_names = {
-			{ "dyynp_Liu" "dynn_Han" }
+			"dynn_Li"
+			"dynn_Liu"
+			"dynn_Zhao"
+			"dynn_Wang"
+			"dynn_Fan"
+			"dynn_Ouyang"
+			"dynn_Su"
+			"dynn_Xin"
+			"dynn_Sima"
+			"dynn_Yue"
+			"dynn_Yang"
+			"dynn_Han"
 		}
-		always_use_patronym = yes
+
 		male_names = {
 			Ji Deyi
 		}
 		female_names = {
 			Anzong Wenshou
 		}
-
-
 
 		ethnicities = {
 			10 = asian

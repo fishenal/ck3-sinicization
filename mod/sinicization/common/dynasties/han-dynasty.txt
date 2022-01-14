@@ -1,5 +1,0 @@
-﻿# Han dynasty
-hanchao = {	#Fictional
-	name = "dynn_Han"
-	culture = "han"
-}

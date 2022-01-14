@@ -1,0 +1,25 @@
+﻿lishimin = {
+	name=Shimin
+	dynasty=LiFml
+	religion="quanzhen"
+	culture="han"
+	1020.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}
+
+wanganshi = {
+	name=Anshi
+	dynasty=WangFml
+	religion="quanzhen"
+	culture="han"
+	1020.1.1={
+		birth=yes
+	}
+	1100.1.1={
+		death=yes
+	}
+}

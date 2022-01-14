@@ -1,0 +1,49 @@
+﻿# Chinese dynasty, all Fictional base on real history
+LiFml = {
+	name = "dynn_Li"
+	culture = "han"
+}
+LiuFml = {
+	name = "dynn_Liu"
+	culture = "han"
+}
+ZhaoFml = {
+	name = "dynn_Zhao"
+	culture = "han"
+}
+WangFml = {
+	name = "dynn_Wang"
+	culture = "han"
+}
+FanFml = {
+	name = "dynn_Fan"
+	culture = "han"
+}
+OuyangFml = {
+	name = "dynn_Ouyang"
+	culture = "han"
+}
+SuFml = {
+	name = "dynn_Su"
+	culture = "han"
+}
+XinFml = {
+	name = "dynn_Xin"
+	culture = "han"
+}
+SimaFml = {
+	name = "dynn_Sima"
+	culture = "han"
+}
+YueFml = {
+	name = "dynn_Yue"
+	culture = "han"
+}
+YangFml = {
+	name = "dynn_Yang"
+	culture = "han"
+}
+HanFml = {
+	name = "dynn_Han"
+	culture = "han"
+}
