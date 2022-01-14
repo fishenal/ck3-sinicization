@@ -49757,7 +49757,7 @@ e_france = {
 
 		d_brittany = {
 			color = { 166 190 191 }
-
+			capital = c_vannes
 			landless = yes
 		}
 	}

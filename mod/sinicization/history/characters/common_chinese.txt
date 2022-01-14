@@ -1,0 +1,205 @@
+﻿wanganshi = {
+	name=Anshi
+	dynasty=WangFml
+	religion="quanzhen"
+	culture="han"
+	1051.12.19={
+		birth=yes
+	}
+	1110.5.21={
+		death=yes
+	}
+}
+
+ouyangxiu = {
+	name=Xiu
+	dynasty=OuyangFml
+	religion="quanzhen"
+	culture="han"
+	1041.12.19={
+		birth=yes
+	}
+	1110.5.21={
+		death=yes
+	}
+}
+
+fanzhongyan = {
+	name=Zhongyan
+	dynasty=FanFml
+	religion="quanzhen"
+	culture="han"
+	1055.12.19={
+		birth=yes
+	}
+	1110.5.21={
+		death=yes
+	}
+}
+
+simaguang = {
+	name=Guang
+	dynasty=SimaFml
+	religion="quanzhen"
+	culture="han"
+	1069.12.19={
+		birth=yes
+	}
+	1110.5.21={
+		death=yes
+	}
+}
+
+xinqiji = {
+	name=Qiji
+	dynasty=XinFml
+	religion="quanzhen"
+	culture="han"
+	1140.5.28={
+		birth=yes
+	}
+	1207.10.3={
+		death=yes
+	}
+}
+
+yuefei = {
+	name=Fei
+	dynasty=YueFml
+	religion="quanzhen"
+	culture="han"
+	1103.3.24={
+		birth=yes
+	}
+	1142.1.27={
+		death=yes
+	}
+}
+
+hanshizhong = {
+	name=Shizhong
+	dynasty=HanFml
+	religion="quanzhen"
+	culture="han"
+	1090.1.26={
+		birth=yes
+	}
+	1151.9.15={
+		death=yes
+	}
+}
+
+# Su family
+suxun = {
+	name=Xun
+	dynasty=SuFml
+	religion="quanzhen"
+	culture="han"
+	1009.5.22={
+		birth=yes
+	}
+	1066.5.21={
+		death=yes
+	}
+}
+
+sushi = {
+	name=Shi
+	dynasty=SuFml
+	religion="quanzhen"
+	culture="han"
+	father=suxun
+	1037.1.8={
+		birth=yes
+	}
+	1087.1.1={
+		add_spouse = wangzhaoyun
+	}
+	1101.8.24={
+		death=yes
+	}
+}
+
+suzhe = {
+	name=Zhe
+	dynasty=SuFml
+	religion="quanzhen"
+	culture="han"
+	father=suxun
+	1039.3.18={
+		birth=yes
+	}
+	1112.10.25={
+		death=yes
+	}
+}
+
+wangzhaoyun = {
+	name=Zhaoyun
+	dynasty=WangFml
+	religion="quanzhen"
+	culture="han"
+	1062.1.1={
+		birth=yes
+	}
+	1106.1.1={
+		death=yes
+	}
+}
+
+# Yang family
+yangye = {
+	name=Ye
+	dynasty=YangFml
+	religion="quanzhen"
+	culture="han"
+	986.1.1={
+		birth=yes
+	}
+	1086.1.1={
+		death=yes
+	}
+}
+
+yangyanzhao = {
+	name=Yanzhao
+	dynasty=YangFml
+	religion="quanzhen"
+	culture="han"
+	father=yangye
+	1058.1.1={
+		birth=yes
+	}
+	1080.1.1={
+		add_spouse = caosaihua
+	}
+	1114.1.1={
+		death=yes
+	}
+}
+caosaihua = {
+	name=Saihua
+	dynasty=CaoFml
+	religion="quanzhen"
+	culture="han"
+	1056.1.1={
+		birth=yes
+	}
+	1101.1.1={
+		death=yes
+	}
+}
+yangwenguang = {
+	name=Wenguang
+	dynasty=YangFml
+	religion="quanzhen"
+	culture="han"
+	father=yangyanzhao
+	mother=caosaihua
+	1088.1.1={
+		birth=yes
+	}
+	1174.1.1={
+		death=yes
+	}
+}
