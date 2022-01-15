@@ -81,13 +81,13 @@ world_europe_west_germania = {
 }
 world_europe_west_francia = {
 	duchies = {
-		d_berry d_anjou d_normandy d_orleans d_champagne d_valois d_burgundy d_bar d_aquitaine d_toulouse d_languedoc d_armagnac d_gascogne d_poitou d_auvergne d_bourbon d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania #d_brabant d_flanders
+		d_normandy d_champagne d_valois d_burgundy d_bar d_aquitaine d_toulouse d_languedoc d_armagnac d_gascogne d_auvergne d_bourbon d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania #d_brabant d_flanders
 	}
 }
 
 world_europe_west_china = {
 	duchies = {
-		d_henan
+		d_jingji d_hexi d_xichuan d_jingdong d_huainan
 	}
 }
 
@@ -1034,7 +1034,7 @@ custom_sub_saharan_africa_immediate = {
 custom_carolingian_francia = {
 	duchies = {
 		#Basically the same, sans the Breton marches.
-		d_berry d_anjou d_normandy d_orleans d_champagne d_valois d_burgundy d_bar d_aquitaine d_toulouse d_languedoc d_armagnac d_gascogne d_poitou d_auvergne d_bourbon d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania
+		d_normandy d_champagne d_valois d_burgundy d_bar d_aquitaine d_toulouse d_languedoc d_armagnac d_gascogne d_auvergne d_bourbon d_provence d_savoie d_dauphine d_upper_burgundy d_transjurania
 	}
 }
 

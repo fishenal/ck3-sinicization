@@ -96,20 +96,6 @@ zhaoxu = {
 	}
 }
 
-zhaoxu = {
-	name=Xu
-	dynasty=ZhaoFml
-	religion="quanzhen"
-	culture="han"
-	father=zhaoshu
-	1048.5.25={
-		birth=yes
-	}
-	1085.4.1={
-		death=yes
-	}
-}
-
 zhaojin = {
 	name=Jin
 	dynasty=ZhaoFml

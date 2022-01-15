@@ -47664,207 +47664,15 @@ e_france = {
 		d_berry = {
 			color = { 30 40 220 }
 			color2 = { 255 255 255 }
-
-			capital = c_berry # Deols
-
-			c_berry = {
-				color = { 30 40 220 }
-				color2 = { 255 255 255 }
-
-				b_deols = {
-					province = 2280
-
-					color = { 30 40 220 }
-					color2 = { 255 255 255 }
-				}
-				b_chateauroux = {
-					province = 2279
-
-					color = { 30 40 220 }
-					color2 = { 255 255 255 }
-				}
-				b_la_haye = {
-					province = 2276
-
-					color = { 30 40 220 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_tourraine = {
-				color = { 25 65 225 }
-				color2 = { 255 255 255 }
-
-				b_tours = {
-					province = 2274
-
-					color = { 25 65 225 }
-					color2 = { 255 255 255 }
-				}
-				b_tourraine = { #Langeais
-					province = 2273
-
-					color = { 25 65 225 }
-					color2 = { 255 255 255 }
-				}
-				b_loches = {
-					province = 2275
-
-					color = { 25 65 225 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_blois = {
-				color = { 42 65 190 }
-				color2 = { 255 255 255 }
-
-				b_blois = {
-					province = 2319
-
-					color = { 42 65 190 }
-					color2 = { 255 255 255 }
-				}
-				b_contres = {
-					province = 2318
-
-					color = { 42 65 190 }
-					color2 = { 255 255 255 }
-				}
-				b_romorantin = {
-					province = 2316
-
-					color = { 42 65 190 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_issoudun = {
-				color = { 25 50 250 }
-				color2 = { 255 255 255 }
-
-				b_issoudun = {
-					province = 2278
-
-					color = { 25 50 250 }
-					color2 = { 255 255 255 }
-				}
-				b_valencay = {
-					province = 2277
-
-					color = { 25 50 250 }
-					color2 = { 255 255 255 }
-				}
-				b_bourges = {
-					province = 2312
-
-					color = { 25 50 250 }
-					color2 = { 255 255 255 }
-				}
-			}
+			capital = c_kaifeng
+			landless = yes
 		}
 
 		d_anjou = {
 			color = { 5 95 235 }
 			color2 = { 255 255 255 }
-
-			capital = c_anjou # Angers
-
-			c_anjou = {
-				color = { 5 95 235 }
-				color2 = { 255 255 255 }
-
-				b_angers = {
-					province = 2267
-
-					color = { 5 95 235 }
-					color2 = { 255 255 255 }
-				}
-				b_luigne = {
-					province = 2263
-
-					color = { 5 95 235 }
-					color2 = { 255 255 255 }
-				}
-				b_la_fleche = {
-					province = 2268
-
-					color = { 5 95 235 }
-					color2 = { 255 255 255 }
-				}
-				b_le_lude = {
-					province = 2269
-
-					color = { 5 95 235 }
-					color2 = { 255 255 255 }
-				}
-				b_craon = {
-					province = 2262
-
-					color = { 5 95 235 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_saumur = {
-				color = { 30 80 230 }
-				color2 = { 255 255 255 }
-
-				b_saumur = {
-					province = 2261
-
-					color = { 30 80 230 }
-					color2 = { 255 255 255 }
-				}
-				b_melay = {
-					province = 2260
-
-					color = { 30 80 230 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_maine = {
-				color = { 15 80 205 }
-				color2 = { 255 255 255 }
-
-				b_le_mans = {
-					province = 2270
-
-					color = { 15 80 205 }
-					color2 = { 255 255 255 }
-				}
-				b_courcillon = {
-					province = 2272
-
-					color = { 15 80 205 }
-					color2 = { 255 255 255 }
-				}
-				b_sarthe = {
-					province = 2271
-
-					color = { 15 80 205 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_sable = {
-				color = { 10 110 250 }
-				color2 = { 255 255 255 }
-
-				b_sable = {
-					province = 2264
-
-					color = { 10 110 250 }
-					color2 = { 255 255 255 }
-				}
-				b_mayenne = {
-					province = 2266
-
-					color = { 10 110 250 }
-					color2 = { 255 255 255 }
-				}
-				b_laval = {
-					province = 2265
-
-					color = { 10 110 250 }
-					color2 = { 255 255 255 }
-				}
-			}
+			capital = c_kaifeng
+			landless = yes
 		}
 
 		d_normandy = {
@@ -48044,130 +47852,8 @@ e_france = {
 		d_orleans = {
 			color = { 10 16 243 }
 			color2 = { 255 255 255 }
-
-			capital = c_orleans # Orleans
-
-			c_orleans = {
-				color = { 10 16 243 }
-				color2 = { 255 255 255 }
-
-				b_orleans = {
-					province = 2338
-
-					color = { 10 16 243 }
-					color2 = { 255 255 255 }
-				}
-				b_beaugency = {
-					province = 2320
-
-					color = { 10 16 243 }
-					color2 = { 255 255 255 }
-				}
-				b_olivet = {
-					province = 2317
-
-					color = { 10 16 243 }
-					color2 = { 255 255 255 }
-				}
-				b_vierzon = {
-					province = 2315
-
-					color = { 10 16 243 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_montargis = {
-				color = { 7 15 240 }
-				color2 = { 255 255 255 }
-
-				b_montargis = {
-					province = 2339
-
-					color = { 7 15 240 }
-					color2 = { 255 255 255 }
-				}
-				b_coutenay = {
-					province = 2340
-
-					color = { 7 15 240 }
-					color2 = { 255 255 255 }
-				}
-				b_chateau_renard = {
-					province = 2341
-
-					color = { 7 15 240 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_vendome = {
-				color = { 4 4 210 }
-				color2 = { 255 255 255 }
-
-				b_vendome = {
-					province = 2283
-
-					color = { 4 4 210 }
-					color2 = { 255 255 255 }
-				}
-				b_chateaudun = {
-					province = 2321
-
-					color = { 4 4 210 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_chartres = {
-				color = { 23 38 255 }
-				color2 = { 255 255 255 }
-
-				b_dreux = {
-					province = 2331
-
-					color = { 23 38 255 }
-					color2 = { 255 255 255 }
-				}
-				b_chartres = {
-					province = 2322
-
-					color = { 23 38 255 }
-					color2 = { 255 255 255 }
-				}
-				b_perche = {	#Displayed as Mortagne
-					province = 2324
-
-					color = { 23 38 255 }
-					color2 = { 255 255 255 }
-				}
-				b_nogent_le_rotrou = {
-					province = 2323
-
-					color = { 23 38 255 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_sancerre = {
-				color = { 5 30 175 }
-				color2 = { 255 255 255 }
-
-				b_sancerre = {
-					province = 2314
-
-					color = { 5 30 175 }
-					color2 = { 255 255 255 }
-				}
-				b_sully_sur_loire = {
-					province = 2463
-
-					color = { 5 30 175 }
-					color2 = { 255 255 255 }
-				}
-				b_herry = {
-					province = 2313
-
-					color = { 5 30 175 }
-					color2 = { 255 255 255 }
-				}
-			}
+			capital = c_kaifeng
+			landless = yes
 		}
 
 		d_champagne = {
@@ -49433,115 +49119,32 @@ e_france = {
 		d_poitou = {
 			color = { 50 50 130 }
 			color2 = { 255 255 255 }
-
-			capital = c_poitiers # Poitiers
-
-			c_poitiers = {
-				color = { 50 50 130 }
-				color2 = { 255 255 255 }
-
-				b_poitiers = {
-					province = 2252
-
-					color = { 50 50 130 }
-					color2 = { 255 255 255 }
-				}
-				b_ruffec = {
-					province = 2251
-
-					color = { 50 50 130 }
-					color2 = { 255 255 255 }
-				}
-				b_chatellerault = {
-					province = 2253
-
-					color = { 50 50 130 }
-					color2 = { 255 255 255 }
-				}
-				b_loudun = {
-					province = 2256
-
-					color = { 50 50 130 }
-					color2 = { 255 255 255 }
-				}
-			}
-
-			c_lusignan = {
-				color = { 30 30 105 }
-				color2 = { 255 255 255 }
-
-				b_lusignan = {
-					province = 2249
-
-					color = { 30 30 105 }
-					color2 = { 255 255 255 }
-				}
-				b_melle = {
-					province = 2250
-
-					color = { 30 30 105 }
-					color2 = { 255 255 255 }
-				}
-				b_niort = {
-					province = 2254
-
-					color = { 30 30 105 }
-					color2 = { 255 255 255 }
-				}
-			}
-
-			c_montaigu = {
-				color = { 55 60 150 }
-				color2 = { 255 255 255 }
-
-				b_montaigu = {
-					province = 2150
-
-					color = { 55 60 150 }
-					color2 = { 255 255 255 }
-				}
-				b_talmont = {
-					province = 2149
-
-					color = { 55 60 150 }
-					color2 = { 255 255 255 }
-				}
-				b_maulevrier = {
-					province = 2259
-
-					color = { 55 60 150 }
-					color2 = { 255 255 255 }
-				}
-			}
-			c_thouars = {
-				color = { 35 35 130 }
-				color2 = { 255 255 255 }
-
-				b_thouars = {
-					province = 2257
-
-					color = { 35 35 130 }
-					color2 = { 255 255 255 }
-				}
-				b_parthenay = {
-					province = 2255
-
-					color = { 35 35 130 }
-					color2 = { 255 255 255 }
-				}
-				b_bressuire = {
-					province = 2258
-
-					color = { 35 35 130 }
-					color2 = { 255 255 255 }
-				}
-				b_fontenay = {
-					province = 2148
-
-					color = { 35 35 130 }
-					color2 = { 255 255 255 }
-				}
-			}
+			capital = c_kaifeng
+			landless = yes
+			# c_montaigu = {
+			# 	color = { 55 60 150 }
+			# 	color2 = { 255 255 255 }
+			# 	capital = c_kaifeng
+			# 	landless = yes
+			# 	b_montaigu = {
+			# 		capital = c_kaifeng
+			# 		landless = yes
+			# 		color = { 55 60 150 }
+			# 		color2 = { 255 255 255 }
+			# 	}
+			# 	b_talmont = {
+			# 		capital = c_kaifeng
+			# 		landless = yes
+			# 		color = { 55 60 150 }
+			# 		color2 = { 255 255 255 }
+			# 	}
+			# 	b_maulevrier = {
+			# 		capital = c_kaifeng
+			# 		landless = yes
+			# 		color = { 55 60 150 }
+			# 		color2 = { 255 255 255 }
+			# 	}
+			# }
 		}
 		d_auvergne = {
 			color = { 54 10 243 }
@@ -49734,30 +49337,11 @@ e_france = {
 	k_brittany = {
 		color = { 197 215 217 }
 		color2 = { 20 20 20 }
-
-		capital = c_vannes # Vannes
-
-		can_create = {
-			trigger_if = {
-				limit = {
-					is_ai = yes
-				}
-				has_culture_group = culture_group:brythonic_group
-			}
-		}
-
-		ai_primary_priority = {
-			if = {
-				limit = {
-					culture = culture:breton
-				}
-				add = @correct_culture_primary_score
-			}
-		}
-
+		capital = c_kaifeng # Vannes
+		landless = yes
 		d_brittany = {
 			color = { 166 190 191 }
-			capital = c_vannes
+			capital = c_kaifeng
 			landless = yes
 		}
 	}

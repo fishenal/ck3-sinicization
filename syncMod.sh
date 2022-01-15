@@ -1,1 +1,2 @@
 rm -rf ~/Documents/"Paradox Interactive"/"Crusader Kings III"/mod/sinicization && cp -r ./mod/sinicization/. ~/Documents/"Paradox Interactive"/"Crusader Kings III"/mod/sinicization
+#cp sinicization.mod ~/Documents/"Paradox Interactive"/"Crusader Kings III"/mod
