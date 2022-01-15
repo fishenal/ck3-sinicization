@@ -1,0 +1,150 @@
+c_rouen = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_evreux = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_bayeux = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_avranches = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_alencon = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_lisieux = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_eu = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_reims = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_troyes = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_coulommiers = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_meaux = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_chalons = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_rethel = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_sens = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_dijon = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_chalon = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_auxerre = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_tonnerrois = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_avalois = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_macon = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_nevers = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_bar = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_briey = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_langres = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_vaucouleurs = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_brugge = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_yperen = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_guines = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_lille = {
+	867.1.1 = {
+		liege = k_france
+	}
+}
+c_boulogne = {
+	867.1.1 = {
+		liege = k_france
+	}
+}

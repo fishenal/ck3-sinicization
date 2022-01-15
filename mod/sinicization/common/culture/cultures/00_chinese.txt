@@ -8,9 +8,6 @@
 
 	han = {
 		color = { 211 44 44 }
-		dynasty_name_first = yes
-		dynasty_title_names = no
-		founder_named_dynasties = yes
 
 		cadet_dynasty_names = {
 			"dynn_Li"

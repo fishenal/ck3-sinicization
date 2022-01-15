@@ -1,1 +1,221 @@
+#hexi
+c_henanfu = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_hexi
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_xuzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_hexi
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_caizhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_hexi
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_qinzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_hexi
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_jingzhaofu = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_hexi
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_bingzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_hexi
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
 
+
+
+# xichuan
+c_yizhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_xichuan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_mianzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_xichuan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_tanzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_xichuan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_jianglingfu = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_xichuan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+
+
+# jingdong
+
+c_yanzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingdong
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_jinzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingdong
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_qingzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingdong
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_qizhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingdong
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_dengzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingdong
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+
+
+# huainan
+c_hangzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_huainan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_wujun = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_huainan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_huainan = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_huainan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_fuzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_huainan
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+
+# jingji
+c_kaifeng = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingji
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_damingfu = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingji
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_cangzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingji
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
+c_dingzhou = {
+	867.1.1 = { 
+		change_development_level = 8 
+		liege = d_jingji
+	}
+	1066.1.1 = {
+		change_development_level = 12 
+	}
+}
