@@ -1,0 +1,13 @@
+﻿l_simp_chinese:
+### Chinese ###
+# Feudal / Clan / Tribal
+ baron_feudal_male_chinese:0 "县令"
+ baron_feudal_female_chinese:0 "县令"
+ count_feudal_male_chinese:0 "县公"
+ count_feudal_female_chinese:0 "县公"
+ duke_feudal_male_chinese:0 "郡王"
+ duke_feudal_female_chinese:0 "郡王"
+ king_feudal_male_chinese:0 "亲王"
+ king_feudal_female_chinese:0 "亲王"
+ emperor_feudal_male_chinese:0 "皇帝"
+ emperor_feudal_female_chinese:0 "皇帝"

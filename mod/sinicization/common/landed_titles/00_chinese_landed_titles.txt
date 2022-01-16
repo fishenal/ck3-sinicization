@@ -4,6 +4,7 @@
 	capital = c_kaifeng
 	definite_form = yes
 	ruler_uses_title_name = no
+	landless = yes
 	k_west_song = {
 		color = { 197 215 217 }
 		color2 = {20 20 20}
