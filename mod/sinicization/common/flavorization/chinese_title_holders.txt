@@ -119,3 +119,117 @@ emperor_feudal_female_chinese = {
 	governments = { feudal_government clan_government tribal_government }
 	culture_groups = { chinese_group }
 }
+
+barony_feudal_chinese = {
+	type = title
+	tier = barony
+	priority = 5
+	governments = { feudal_government }
+	culture_groups = { chinese_group }
+}
+county_feudal_chinese = {
+	type = title
+	tier = county
+	priority = 16
+	governments = { feudal_government }
+	culture_groups = { chinese_group }
+}
+duchy_feudal_chinese = {
+	type = title
+	tier = duchy
+	governments = { feudal_government }
+	culture_groups = { chinese_group }
+	priority = 27
+}
+# Independent dukes of certain culture groups are known as Petty Kings instead of Dukes
+duke_feudal_independent_chinese = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 27
+	only_independent = yes
+	governments = { feudal_government }
+	culture_groups = { chinese_group }
+}
+duke_feudal_independent_female_chinese = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 27
+	only_independent = yes
+	governments = { feudal_government }
+	culture_groups = { chinese_group }
+}
+duchy_feudal_independent_chinese = {
+	type = title
+	tier = duchy
+	governments = { feudal_government }
+	culture_groups = { chinese_group }
+	only_independent = yes
+	priority = 28
+}
+kingdom_feudal_chinese = {
+	type = title
+	tier = kingdom
+	priority = 46
+	governments = { feudal_government }
+	culture_groups = { chinese_group }
+}
+baron_republic_male_chinese = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { republic_government }
+	culture_groups = { chinese_group }
+}
+baron_republic_female_chinese = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 7
+	top_liege = no
+	governments = { republic_government }
+	culture_groups = { chinese_group }
+}
+barony_republic_chinese = {
+	type = title
+	tier = barony
+	top_liege = no
+	priority = 7
+	governments = { republic_government }
+	culture_groups = { chinese_group }
+}
+count_republic_male_chinese = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { republic_government }
+	culture_groups = { chinese_group }
+}
+count_republic_female_chinese = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { republic_government }
+	culture_groups = { chinese_group }
+}
+county_republic_chinese = {
+	type = title
+	tier = county
+	priority = 17
+	top_liege = no
+	governments = { republic_government }
+	culture_groups = { chinese_group }
+}
