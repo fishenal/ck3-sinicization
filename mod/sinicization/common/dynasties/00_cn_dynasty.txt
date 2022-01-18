@@ -11,6 +11,14 @@ ZhaoFml = {
 	name = "dynn_Zhao"
 	culture = "han"
 }
+ZhangFml = {
+	name = "dynn_Zhang"
+	culture = "han"
+}
+WuFml = {
+	name = "dynn_Wu"
+	culture = "han"
+}
 WangFml = {
 	name = "dynn_Wang"
 	culture = "han"

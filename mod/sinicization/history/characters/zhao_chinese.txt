@@ -91,13 +91,57 @@ zhaoxu = {
 	1048.5.25={
 		birth=yes
 	}
+	1068.5.5={
+		add_spouse=zhanghuanghou
+	}
 	1085.4.1={
 		death=yes
 	}
 }
-
+zhanghuanghou = {
+	name=Jing
+	dynasty=ZhangFml
+	religion="quanzhen"
+	culture="han"
+	female = yes
+	1052.1.1={
+		birth=yes
+	}
+	1108.11.1={
+		death=yes
+	}
+}
 zhaohao = {
 	name=Hao
+	dynasty=ZhaoFml
+	religion="quanzhen"
+	culture="han"
+	father=zhaoshu
+	1046.5.25={
+		birth=yes
+	}
+	1066.1.1={
+		add_spouse=caohuanghou
+	}
+	1090.4.1={
+		death=yes
+	}
+}
+caohuanghou = {
+	name=Mei
+	dynasty=CaoFml
+	religion="quanzhen"
+	culture="han"
+	female = yes
+	1052.1.1={
+		birth=yes
+	}
+	1108.11.1={
+		death=yes
+	}
+}
+zhaojin = {
+	name=Jin
 	dynasty=ZhaoFml
 	religion="quanzhen"
 	culture="han"
@@ -105,24 +149,10 @@ zhaohao = {
 	1050.5.25={
 		birth=yes
 	}
-	1090.4.1={
-		death=yes
-	}
-}
-
-zhaojin = {
-	name=Jin
-	dynasty=ZhaoFml
-	religion="quanzhen"
-	culture="han"
-	father=zhaoxu
-	1075.5.25={
-		birth=yes
-	}
-	1088.1.1={
+	1066.1.1={
 		add_spouse = liuhuanghou
 	}
-	1101.1.1={
+	1121.1.1={
 		death=yes
 	}
 }
@@ -162,6 +192,7 @@ wanghuanghou = {
 	dynasty=WangFml
 	religion="quanzhen"
 	culture="han"
+	female = yes
 	1084.1.1={
 		birth=yes
 	}
@@ -175,6 +206,7 @@ liuhuanghou = {
 	dynasty=LiuFml
 	religion="quanzhen"
 	culture="han"
+	female = yes
 	1080.1.1={
 		birth=yes
 	}

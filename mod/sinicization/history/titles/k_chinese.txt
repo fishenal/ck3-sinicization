@@ -2,12 +2,6 @@ e_china = {
 	1066.1.1 = {
 		holder = zhaoxu
 	}
-	1085.4.1 = {
-		holder = zhaojin
-	}
-	1101.1.1 = {
-		holder = zhaoji
-	}
 }
 
 k_west_song = {
@@ -44,7 +38,8 @@ c_xuzhou = {
 		liege = d_hexi
 	}
 	1066.1.1 = {
-		change_development_level = 12 
+		change_development_level = 12
+		holder = ouyangxiu
 	}
 }
 c_caizhou = {
@@ -54,6 +49,7 @@ c_caizhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = wuqiong
 	}
 }
 c_qinzhou = {
@@ -63,6 +59,7 @@ c_qinzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = wanganli
 	}
 }
 c_jingzhaofu = {
@@ -72,6 +69,7 @@ c_jingzhaofu = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = wanganli
 	}
 }
 c_bingzhou = {
@@ -81,6 +79,7 @@ c_bingzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = ouyangxiu
 	}
 }
 
@@ -92,7 +91,7 @@ d_xichuan = {
 		liege = k_west_song
 	}
 	1066.1.1 = {
-		holder = yangyanzhao
+		holder = yangye
 	}
 }
 c_yizhou = {
@@ -102,6 +101,7 @@ c_yizhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = yangyanzhao
 	}
 }
 c_mianzhou = {
@@ -111,6 +111,7 @@ c_mianzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = xinqiji
 	}
 }
 c_tanzhou = {
@@ -120,6 +121,7 @@ c_tanzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = yangye
 	}
 }
 c_jianglingfu = {
@@ -160,6 +162,7 @@ c_jinzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = simaguang
 	}
 }
 c_qingzhou = {
@@ -169,6 +172,7 @@ c_qingzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = simaguang
 	}
 }
 c_qizhou = {
@@ -178,6 +182,7 @@ c_qizhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = hanshizhong
 	}
 }
 c_dengzhou = {
@@ -187,6 +192,7 @@ c_dengzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = hanshizhong
 	}
 }
 
@@ -217,6 +223,7 @@ c_wujun = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = sushi
 	}
 }
 c_huainan = {
@@ -226,6 +233,7 @@ c_huainan = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = suzhe
 	}
 }
 c_fuzhou = {
@@ -235,6 +243,7 @@ c_fuzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = suzhe
 	}
 }
 
@@ -264,6 +273,7 @@ c_damingfu = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = zhaohao
 	}
 }
 c_cangzhou = {
@@ -272,7 +282,8 @@ c_cangzhou = {
 		liege = d_jingji
 	}
 	1066.1.1 = {
-		change_development_level = 12 
+		change_development_level = 12
+		holder = zhaojin 
 	}
 }
 c_dingzhou = {
@@ -282,5 +293,6 @@ c_dingzhou = {
 	}
 	1066.1.1 = {
 		change_development_level = 12 
+		holder = zhaojin
 	}
 }
