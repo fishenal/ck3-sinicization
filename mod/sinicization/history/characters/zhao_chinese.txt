@@ -114,7 +114,7 @@ zhanghuanghou = {
 zhaohao = {
 	name=Hao
 	dynasty=ZhaoFml
-	religion="quanzhen"
+	religion="lixue"
 	culture="han"
 	father=zhaoshu
 	1046.5.25={
@@ -156,7 +156,19 @@ zhaojin = {
 		death=yes
 	}
 }
-
+liuhuanghou = {
+	name=Ai
+	dynasty=LiuFml
+	religion="quanzhen"
+	culture="han"
+	female = yes
+	1058.1.1={
+		birth=yes
+	}
+	1140.11.1={
+		death=yes
+	}
+}
 zhaoxun = {
 	name=Xun
 	dynasty=ZhaoFml
@@ -188,7 +200,7 @@ zhaoji = {
 	}
 }
 wanghuanghou = {
-	name=jinghe
+	name=Yanyan
 	dynasty=WangFml
 	religion="quanzhen"
 	culture="han"
@@ -201,16 +213,3 @@ wanghuanghou = {
 	}
 }
 
-liuhuanghou = {
-	name=jinnu
-	dynasty=LiuFml
-	religion="quanzhen"
-	culture="han"
-	female = yes
-	1080.1.1={
-		birth=yes
-	}
-	1140.11.1={
-		death=yes
-	}
-}
