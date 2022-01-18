@@ -1,0 +1,9 @@
+﻿l_english:
+ knight_general_no_tooltip:0 "General"
+ knight_general_no_tooltip_plural:0 "General"
+ knight_general_no_tooltip_lowercase:0 "General"
+ knight_general_no_tooltip_lowercase_plural:0 "General"
+ knight_general_no_tooltip_lowercase_plural_possessive:0 "General"
+ knight_general_no_tooltip_lowercase_adjective:0 "General"
+ knight_general:0 "[Concept( 'knight', '$knight_general_no_tooltip$' )|E]"
+ knight_general_plural:0 "[Concept( 'knight', '$knight_general_no_tooltip_plural$' )|E]"
