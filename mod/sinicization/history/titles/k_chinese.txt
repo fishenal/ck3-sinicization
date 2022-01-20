@@ -1,6 +1,6 @@
 e_china = {
-	1066.1.1 = {
-		holder = zhaoxu
+	867.1.1 = { 
+		holder = 0
 	}
 }
 

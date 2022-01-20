@@ -178,22 +178,22 @@
 		BishopNeuter = taoism_priest_neuter
 		BishopNeuterPlural = taoism_priest_neuter_plural
 
-		# DivineRealm = taoism_divine_realm
-		# PositiveAfterLife = taoism_positive_afterlife
-		# NegativeAfterLife = taoism_negative_afterlife
-		# DeathDeityName = paganism_death_deity_name
-		# DeathDeityNamePossessive = paganism_death_deity_name_possessive
-		# DeathDeitySheHe = CHARACTER_SHEHE_IT
-		# DeathDeityHerHis = CHARACTER_HERSHIS_ITS
-		# WitchGodName = witchgodname_taoism_daode_tianzun
-		# WitchGodHerHis = CHARACTER_HERHIS_HER
-		# WitchGodSheHe = CHARACTER_SHEHE_SHE
-		# WitchGodHerHim = CHARACTER_HERHIM_HER
-		# WitchGodMistressMaster = mistress
-		# WitchGodMotherFather = mother
+		DivineRealm = taoism_divine_realm
+		PositiveAfterLife = taoism_positive_afterlife
+		NegativeAfterLife = taoism_negative_afterlife
+		DeathDeityName = paganism_death_deity_name
+		DeathDeityNamePossessive = paganism_death_deity_name_possessive
+		DeathDeitySheHe = CHARACTER_SHEHE_IT
+		DeathDeityHerHis = CHARACTER_HERSHIS_ITS
+		WitchGodName = witchgodname_taoism_daode_tianzun
+		WitchGodHerHis = CHARACTER_HERHIS_HER
+		WitchGodSheHe = CHARACTER_SHEHE_SHE
+		WitchGodHerHim = CHARACTER_HERHIM_HER
+		WitchGodMistressMaster = mistress
+		WitchGodMotherFather = mother
 
-		# GHWName = ghw_purification
-		# GHWNamePlural = ghw_purifications
+		GHWName = ghw_purification
+		GHWNamePlural = ghw_purifications
 	}
 
 	faiths = {
