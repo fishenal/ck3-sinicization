@@ -882,7 +882,7 @@ pool_repopulate_local_flavor = {
 			}
 			random_list = {
 				50 = {
-					set_character_faith = faith:lixue
+					set_character_faith = faith:sinicization
 					random_list = {
 						50 = {}
 						50 = {

@@ -1,9 +1,29 @@
-﻿qufu = {
+﻿yanzhou = {
 	county = c_yanzhou
+
+	character_modifier = {
+		name = holy_site_yanzhou_effect_name
+		stewardship = 1
+		learning = 2
+	}
+}
+
+suzhou = {
+	county = c_suzhou
 
 	character_modifier = {
 		name = holy_site_suzhou_effect_name
 		diplomacy = 1
-		martial = 1
+		learning = 1
+		learning_per_piety_level = 1
+	}
+}
+
+henan = {
+	county = c_henanfu
+	character_modifier = {
+		name = holy_site_henan_effect_name
+		supply_duration = 0.5
+		learning_per_piety_level = 2
 	}
 }
