@@ -2,7 +2,7 @@
 	graphical_cultures = {
 		chinese_group_coa_gfx
 		indian_building_gfx
-		mongol_clothing_gfx
+		chinese_clothing_gfx
 		mongol_unit_gfx
 	}
 
@@ -4988,7 +4988,7 @@
 		pat_grf_name_chance = 0
 		mat_grf_name_chance = 0
 		father_name_chance = 0
-		
+
 		pat_grm_name_chance = 0
 		mat_grm_name_chance = 0
 		mother_name_chance = 0

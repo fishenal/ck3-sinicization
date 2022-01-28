@@ -1,0 +1,121 @@
+﻿# Make sure the weights here match up best as possible with the custom_hair set
+chinese_hairstyles = {
+	usage = game
+	selection_behavior = weighted_random
+	chinese_straight1 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = western_hairstyles_straight
+				range = {
+					0
+					1
+				}
+				# For the randomness to work correctly
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 55
+				OR = {
+					has_gene = {
+						category = gene_hair_type
+						template = hair_straight
+					}
+					has_gene = {
+						category = gene_hair_type
+						template = hair_straight_thin_beard
+					}
+				}
+				portrait_chinese_clothing_trigger = yes
+			}
+			modifier = {
+				add = -100
+				OR = {
+					is_from_ruler_designer = yes
+					has_character_flag = has_scripted_appearance
+				}
+			}
+		}
+	}
+	chinese_straight2 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = mena_hairstyles_straight
+				range = {
+					0
+					1
+				}
+				# For the randomness to work correctly
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 55
+				OR = {
+					has_gene = {
+						category = gene_hair_type
+						template = hair_straight
+					}
+					has_gene = {
+						category = gene_hair_type
+						template = hair_straight_thin_beard
+					}
+				}
+				portrait_chinese_clothing_trigger = yes
+			}
+			modifier = {
+				add = -100
+				OR = {
+					is_from_ruler_designer = yes
+					has_character_flag = has_scripted_appearance
+					this = character:33922					# Prophet Muhammad
+				}
+			}
+		}
+	}
+	chinese_straight3 = {
+		dna_modifiers = {
+			accessory = {
+				mode = add
+				gene = hairstyles
+				template = indian_hairstyles_straight
+				range = {
+					0
+					1
+				}
+				# For the randomness to work correctly
+			}
+		}
+		weight = {
+			base = 0
+			modifier = {
+				add = 55
+				OR = {
+					has_gene = {
+						category = gene_hair_type
+						template = hair_straight
+					}
+					has_gene = {
+						category = gene_hair_type
+						template = hair_straight_thin_beard
+					}
+				}
+				portrait_chinese_clothing_trigger = yes
+			}
+			modifier = {
+				add = -100
+				OR = {
+					is_from_ruler_designer = yes
+					has_character_flag = has_scripted_appearance
+					this = character:33922					# Prophet Muhammad
+				}
+			}
+		}
+	}
+}
