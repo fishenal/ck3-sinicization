@@ -13,14 +13,13 @@
 3. 新增了多个宋朝家族并授予他们头衔，包括宋神宗赵顼，宋神宗弟弟赵颢，王安石，杨家将，三苏，欧阳修，范仲淹，岳飞，司马光等人
 4. 根据中国人的习惯重置了区域和头衔，比如 国王->亲王 公爵-> 郡王 骑士-> 将军 等， 比如 郡国，州，县，等
 5. 根据中国人的习惯重置了内阁名称，比如 吏部尚书，骠骑大将军，中书令，刑部尚书，等
-6. 新增了儒家作为宗教，并允许皇帝纳妾
+6. 新增了基督教中华派作为宗教，并允许皇帝纳妾
 
 ## 后续：
 
  1. 计划更新人物样貌，王朝图章，文化UI，颜色，背景，建筑等
  2. 新增宫廷角色，修改角色任务
  3. 修改继承制度为单一指定制
- 4. 完善宗教，儒家
  5. 新增事件，故事等
 
 ## 参与开发测试：
@@ -49,13 +48,12 @@ Game need start since 1066 AD.
 3. Added several Song Dynasty families and granted them titles, including Song Shenzong Zhao Xu, Song Shenzong's younger brother Zhao Hao, Wang Anshi, Yang Ye, Sushi, Ouyang Xiu, Fan Zhongyan, Yue Fei, Sima Guang, etc.
 4. Regions and titles have been reset according to Chinese habits. (English accept)
 5. The council role have been reset according to Chinese customs, such as General, Minister of Punishment, etc.
-6. Added Confucianism as a religion and allowed the emperor to take concubines
+6. Added a merged religion called Chinese Christianity and allowed the emperor to take concubines
 
 ## Planning：
 1. Plan to update portrait, coat of arms, culture UI, color, background, building, etc.
 2. Add council roles and modified role tasks
 3. Change inherit to designation inherit
-4. Perfect Religion, Confucianism
 5. New events, stories, etc.
 
 ## Welcome join：
