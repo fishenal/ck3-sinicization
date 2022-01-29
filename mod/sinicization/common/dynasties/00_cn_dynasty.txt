@@ -10,6 +10,7 @@ LiuFml = {
 ZhaoFml = {
 	name = "dynn_Zhao"
 	culture = "han"
+	motto = dynn_Zhao_motto
 }
 ZhangFml = {
 	name = "dynn_Zhang"
@@ -22,10 +23,12 @@ WuFml = {
 WangFml = {
 	name = "dynn_Wang"
 	culture = "han"
+	motto = dynn_Wang_motto
 }
 FanFml = {
 	name = "dynn_Fan"
 	culture = "han"
+	motto = dynn_Fan_motto
 }
 OuyangFml = {
 	name = "dynn_Ouyang"
@@ -34,6 +37,7 @@ OuyangFml = {
 SuFml = {
 	name = "dynn_Su"
 	culture = "han"
+	motto = dynn_Su_motto
 }
 XinFml = {
 	name = "dynn_Xin"
@@ -50,6 +54,7 @@ YueFml = {
 YangFml = {
 	name = "dynn_Yang"
 	culture = "han"
+	motto = dynn_Yang_motto
 }
 HanFml = {
 	name = "dynn_Han"
