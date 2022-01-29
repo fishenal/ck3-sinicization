@@ -1,0 +1,53 @@
+﻿bm_1066_chinese = {
+	default = yes
+	start_date = 1066.9.15
+	is_playable = yes
+	recommended = yes
+	# Zhao song
+	character = {
+		name = "bookmark_chinese_zhaohao"
+		dynasty = ZhaoFml
+		dynasty_splendor_level = 2
+		type = male
+		history_id = zhaohao
+		birth = 1046.5.25
+		title = k_west_song
+		government = feudal_government
+		culture = han
+		religion = sinicization
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		# tutorial = yes
+		position = {
+			530
+			250
+		}
+		animation = personality_honorable
+		# animation = personality_rational
+		#	Potentially: Conchobar (half-brother) ID: 6207
+		#	Brian (son) ID: 83357
+		character = {
+			name = "bookmark_chinese_wanganshi"
+			dynasty = WangFml
+			type = male
+			birth = 1031.12.19
+			title = d_hexi
+			#government = feudal_government
+			culture = han
+			religion = sinicization
+			history_id = wanganshi
+			animation = personality_content
+		}
+		character = {
+			name = "bookmark_chinese_fanzhongyan"
+			dynasty = FanFml
+			type = male
+			birth = 1028.12.19
+			title = d_jingdong
+			#government = feudal_government
+			culture = han
+			religion = sinicization
+			history_id = fanzhongyan
+			animation = personality_rational
+		}
+	}
+}

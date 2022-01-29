@@ -125,6 +125,7 @@ zhaohao = {
 	diplomacy = 20
 	intrigue = 10
 	stewardship = 18
+	prowess=14
 	trait = honest
 	trait = education_diplomacy_3
 	trait = education_learning_3

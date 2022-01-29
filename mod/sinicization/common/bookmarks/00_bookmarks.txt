@@ -18,7 +18,7 @@
 		position = { 700 620 }
 
 		animation = disapproval
-	
+
 		# Gudfrid, son who became Duke of Frisia, ID: 168336
 		character = {
 			name = "bookmark_northmen_halfdan_whiteshirt_alt_gudfrid"
@@ -61,7 +61,7 @@
 		history_id = 163111
 		position = { 560 320 }
 		animation = personality_bold
-		
+
 		# Barid, eldest son and heir and later King of Dublin, ID:6814
 		character = {
 			name = "bookmark_northmen_ivar_the_boneless_alt_barid"
@@ -103,9 +103,9 @@
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 163110
 		position = { 1150 660 }
-		
+
 		animation = dismissal
-		
+
 		# Knud, son and heir, the semi-legendary king Hardeknud, ID:101549
 		character = {
 			name = "bookmark_northmen_sigurdr_snake_in_the_eye_alt_knud"
@@ -147,7 +147,7 @@
 		position = { 1020 150 }
 
 		animation = personality_cynical
-		
+
 		# Ingrid, daughter, ID:6863
 		character = {
 			name = "bookmark_northmen_bjorn_ironside_alt_ingrid"
@@ -189,7 +189,7 @@
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		history_id = 7627
 		position = { 290 800 }
-		
+
 		animation = rage
 
 		# Æthelred, brother and king of Wessex, ID:33358
@@ -228,7 +228,7 @@ bm_867_adventurers = {
 	# 	difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 	# 	history_id = 6878
 	# 	position = { 120 530 }
-		
+
 	# 	animation = personality_rational
 
 	# 	# Ragnarr, son and heir, ID: 6880
@@ -258,7 +258,7 @@ bm_867_adventurers = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = 40605
 		position = { 970 240 }
-		
+
 		animation = boredom
 
 		# Helgi the Seer, "son" and heir ID:40606
@@ -274,7 +274,7 @@ bm_867_adventurers = {
 			animation = personality_zealous
 		}
 	}
-	
+
 	# Magajiva Daura, Countess of Daura, Hausa
 	character = {
 		name = "bookmark_adventurers_daurama_daura"
@@ -289,7 +289,7 @@ bm_867_adventurers = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 251187
 		position = { 400 810 }
-			
+
 		animation = personality_forgiving
 
 		# Bawo Durbawa, "son" and heir ID:251181
@@ -362,7 +362,7 @@ bm_867_adventurers = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 159137
 		position = { 1120 630 }
-		
+
 		animation = personality_bold
 
 		# Arpad, son and heir, ID: 159136
@@ -395,7 +395,7 @@ bm_867_adventurers = {
 bm_867_carolingians = {
 	start_date = 867.1.1
 	is_playable = yes
-	
+
 	# Charles the Bald (West Francia) ID:90104
 	character = {
 		name = "bookmark_carolingians_charles_the_bald"
@@ -411,7 +411,7 @@ bm_867_carolingians = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 90104
 		position = { 300 550 }
-		
+
 		animation = love
 
 		# Judith, the eloped daughter, 90110
@@ -458,7 +458,7 @@ bm_867_carolingians = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 144998
 		position = { 590 170 }
-		
+
 		animation = personality_rational
 
 		# (Waldrada, lover and mother of children, 168314) <- not dynastic
@@ -506,7 +506,7 @@ bm_867_carolingians = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 90107
 		position = { 1140 160 }
-		
+
 		animation = worry
 
 		# Ludwig the Younger, rebellious son, 42019
@@ -538,7 +538,7 @@ bm_867_carolingians = {
 			animation = personality_callous
 		}
 	}
-	
+
 	# Louis II (Italy) ID: 30228
 	character = {
 		name = "bookmark_carolingians_king_louis"
@@ -553,7 +553,7 @@ bm_867_carolingians = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 30228
 		position = { 870 800 }
-		
+
 		animation = paranoia
 
 		# Ermengarde, daughter & defender of Vienne, 7982
@@ -600,7 +600,7 @@ bm_867_carolingians = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		history_id = 42018
 		position = { 1230 420 }
-		
+
 		animation = disapproval
 
 		# Arnulf, the ambitious bastard, 7945
@@ -637,7 +637,7 @@ bm_867_carolingians = {
 bm_1066_hastings = {
 	start_date = 1066.9.15
 	is_playable = yes
-	
+
 	# Harold Godwineson ID: 122
 	character = {
 		name = "bookmark_hastings_england" # King Harold of England
@@ -652,9 +652,9 @@ bm_1066_hastings = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		position = { 250 620 }
-		
+
 		animation = worry
-		
+
 		#Potentially: Brother, Gyrth (ID: 132)
 
 		#Brother, Tostig Godwineson (ID: 124) (friendly with King Harald of Norway, against you)
@@ -687,7 +687,7 @@ bm_1066_hastings = {
 			animation = schadenfreude
 		}
 	}
-	
+
 	# William the Bastard ID: 140
 	character = {
 		name = "bookmark_hastings_normandy" # William the Bastard
@@ -702,7 +702,7 @@ bm_1066_hastings = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 830 810 }
-		
+
 		animation = personality_callous
 
 		#Sidekick: Count Robert 'Curthose', son and heir (ID: 142)
@@ -733,7 +733,7 @@ bm_1066_hastings = {
 			history_id = 146
 		}
 	}
-	
+
 	# Harold Hardrade ID: 102531
 	character = {
 		name = "bookmark_hastings_norway" # Harald Hardrade of Norway ID:102531
@@ -748,7 +748,7 @@ bm_1066_hastings = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 850 170 }
-		
+
 		animation = personality_dishonorable
 
 		#	Olaf Haraldsson (son) ID: 102534
@@ -781,7 +781,7 @@ bm_1066_hastings = {
 			animation = disapproval
 		}
 	}
-	
+
 	# Svend the Dane ID: 101515
 	character = {
 		name = "bookmark_hastings_denmark" # King Svend of Denmark ID:101515
@@ -796,7 +796,7 @@ bm_1066_hastings = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		position = { 1100 590 }
-		
+
 		animation = personality_greedy
 
 		#	Harald III (son) ID: 101517
@@ -844,7 +844,7 @@ bm_1066_hastings = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		position = { 410 230 }
-		
+
 		animation = personality_rational
 
 		#	Donnchad mac Máel Coluim (son) ID: 988
@@ -875,15 +875,14 @@ bm_1066_hastings = {
 			history_id = 986
 			animation = personality_forgiving
 		}
-	}	
+	}
 }
 
 bm_1066_rags_to_riches = {
-	default = yes
 	start_date = 1066.9.15
 	is_playable = yes
 	recommended = yes
-	
+
 	# Murchad ua Briain ID: 83355
 	character = {
 		name = "bookmark_rags_to_riches_petty_king_murchad" #ID:83355
@@ -899,7 +898,7 @@ bm_1066_rags_to_riches = {
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		tutorial = yes
 		position = { 430 190 }
-		
+
 		animation = personality_rational
 
 		#	Potentially: Conchobar (half-brother) ID: 6207
@@ -949,13 +948,13 @@ bm_1066_rags_to_riches = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 1190 500 }
-		
+
 		animation = personality_zealous
 
 		# Secondary characters:
 		#	None! She’s alone in her dynasty.
 	}
-	
+
 	# Yahya Dhunnunid ID: 3924
 	character = {
 		name = "bookmark_rags_to_riches_emir_yahya" #ID:3924
@@ -970,9 +969,9 @@ bm_1066_rags_to_riches = {
 		religion = muwalladi
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 250 650 }
-		
+
 		animation = personality_vengeful
-		
+
 		#Potentially: Isma’il (son) ID: 73195
 
 		#	Zahida (daughter) ID: 20858
@@ -1004,7 +1003,7 @@ bm_1066_rags_to_riches = {
 			history_id = 3926
 		}
 	}
-	
+
 	# Vratislav Premyslid ID: 522
 	character = {
 		name = "bookmark_rags_to_riches_duke_vratislav" #ID:522
@@ -1019,7 +1018,7 @@ bm_1066_rags_to_riches = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		position = { 910 270 }
-		
+
 		animation = personality_bold
 
 		# Potentially: Bretislav (son) ID: 530
@@ -1069,7 +1068,7 @@ bm_1066_rags_to_riches = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 1050 840 }
-		
+
 		animation = dismissal
 
 		#Potentially: Emma (daughter) ID: 1143
@@ -1108,7 +1107,7 @@ bm_1066_rags_to_riches = {
 bm_1066_iberia = {
 	start_date = 1066.9.15
 	is_playable = yes
-	
+
 	# Garcia Jimena ID: 109500
 	character = {
 		name = "bookmark_iberia_king_garcia" #ID:109500
@@ -1123,7 +1122,7 @@ bm_1066_iberia = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 450 530 }
-		
+
 		animation = paranoia
 	}
 
@@ -1141,7 +1140,7 @@ bm_1066_iberia = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		position = { 620 180 }
-		
+
 		animation = personality_dishonorable
 
 		#	Sancha Alfonsez (mother) ID: 107511
@@ -1174,7 +1173,7 @@ bm_1066_iberia = {
 			animation = personality_cynical
 		}
 	}
-	
+
 	# Sancho Jimena ID: 107500
 	character = {
 		name = "bookmark_iberia_king_sancho" #ID:107500
@@ -1189,7 +1188,7 @@ bm_1066_iberia = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_MEDIUM"
 		position = { 950 160 }
-		
+
 		animation = personality_bold
 
 		#	Rodrigo Diegez de Vivar (commander, and probably friend) ID: 107590
@@ -1207,7 +1206,7 @@ bm_1066_iberia = {
 			animation = personality_bold
 		}
 	}
-	
+
 	# Urraca Jimena ID: 108501
 	character = {
 		name = "bookmark_iberia_infanta_urraca" #ID:108501
@@ -1222,7 +1221,7 @@ bm_1066_iberia = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		position = { 830 640 }
-		
+
 		animation = personality_forgiving
 
 		#	Elvira Fernandez (sister and vassal) ID: 107501
@@ -1255,7 +1254,7 @@ bm_1066_iberia = {
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_HARD"
 		position = { 1130 480 }
-		
+
 		animation = personality_cynical
 
 		#	Ramiro Gartziez (brother and heir) ID: 106011
