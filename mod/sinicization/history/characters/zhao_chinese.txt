@@ -88,6 +88,10 @@ zhaoxu = {
 	religion="sinicization"
 	culture="han"
 	father=zhaoshu
+	martial = 4
+	diplomacy = 18
+	intrigue = 12
+	stewardship = 9
 	1048.5.25={
 		birth=yes
 	}
@@ -117,6 +121,17 @@ zhaohao = {
 	religion="sinicization"
 	culture="han"
 	father=zhaoshu
+	martial = 5
+	diplomacy = 20
+	intrigue = 10
+	stewardship = 18
+	trait = honest
+	trait = education_diplomacy_3
+	trait = education_learning_3
+	trait = diplomat
+	trait = ambitious
+	trait = temperate
+	trait = callous
 	1046.5.25={
 		birth=yes
 	}
@@ -147,7 +162,7 @@ zhaoyu = {
 	culture="han"
 	father=zhaohao
 	mother=caohuanghou
-	1066.1.10={
+	1064.1.10={
 		birth=yes
 	}
 	1132.4.1={

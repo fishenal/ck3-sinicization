@@ -1,235 +1,273 @@
 ﻿wanganshi = {
-	name=Anshi
-	dynasty=WangFml
-	religion="sinicization"
-	culture="han"
-	1031.12.19={
-		birth=yes
+	name = Anshi
+	dynasty = WangFml
+	religion = "sinicization"
+	culture = "han"
+	martial = 2
+	diplomacy = 12
+	intrigue = 18
+	stewardship = 21
+	trait = trusting
+	trait = education_stewardship_2
+	trait = scholar
+	trait = calm
+	1031.12.19 = {
+		birth = yes
 	}
-	1066.1.1={
-		add_spouse=wuqiong
+	1066.1.1 = {
+		add_spouse = wuqiong
 	}
-	1100.5.21={
-		death=yes
+	1100.5.21 = {
+		death = yes
 	}
 }
+
 wanganli = {
-	name=Anli
-	dynasty=WangFml
-	religion="sinicization"
-	culture="han"
-	1035.12.19={
-		birth=yes
+	name = Anli
+	dynasty = WangFml
+	religion = "sinicization"
+	culture = "han"
+	1035.12.19 = {
+		birth = yes
 	}
-	1120.5.21={
-		death=yes
+	1120.5.21 = {
+		death = yes
 	}
 }
 
 wuqiong = {
-	name=Qiong
-	dynasty=WuFml
-	religion="sinicization"
-	culture="han"
-	1035.12.19={
-		birth=yes
+	name = Qiong
+	dynasty = WuFml
+	religion = "sinicization"
+	culture = "han"
+	1035.12.19 = {
+		birth = yes
 	}
-	1123.5.21={
-		death=yes
+	1123.5.21 = {
+		death = yes
 	}
 }
 
 ouyangxiu = {
-	name=Xiu
-	dynasty=OuyangFml
-	religion="sinicization"
-	culture="han"
-	1041.12.19={
-		birth=yes
+	name = Xiu
+	dynasty = OuyangFml
+	religion = "sinicization"
+	culture = "han"
+	1041.12.19 = {
+		birth = yes
 	}
-	1110.5.21={
-		death=yes
+	1110.5.21 = {
+		death = yes
 	}
 }
 
 fanzhongyan = {
-	name=Zhongyan
-	dynasty=FanFml
-	religion="sinicization"
-	culture="han"
-	1028.12.19={
-		birth=yes
+	name = Zhongyan
+	dynasty = FanFml
+	religion = "sinicization"
+	culture = "han"
+	martial = 1
+	diplomacy = 24
+	intrigue = 21
+	stewardship = 14
+	trait = scholar
+	trait = mystic_3
+	trait = patient
+	1028.12.19 = {
+		birth = yes
 	}
-	1100.5.21={
-		death=yes
+	1100.5.21 = {
+		death = yes
 	}
 }
 
 simaguang = {
-	name=Guang
-	dynasty=SimaFml
-	religion="sinicization"
-	culture="han"
-	1035.12.19={
-		birth=yes
+	name = Guang
+	dynasty = SimaFml
+	religion = "sinicization"
+	culture = "han"
+	1035.12.19 = {
+		birth = yes
 	}
-	1110.5.21={
-		death=yes
+	1110.5.21 = {
+		death = yes
 	}
 }
 
 xinqiji = {
-	name=Qiji
-	dynasty=XinFml
-	religion="sinicization"
-	culture="han"
-	1040.5.28={
-		birth=yes
+	name = Qiji
+	dynasty = XinFml
+	religion = "sinicization"
+	culture = "han"
+	1040.5.28 = {
+		birth = yes
 	}
-	1107.10.3={
-		death=yes
+	1107.10.3 = {
+		death = yes
 	}
 }
 
 yuefei = {
-	name=Fei
-	dynasty=YueFml
-	religion="sinicization"
-	culture="han"
-	1045.3.24={
-		birth=yes
+	name = Fei
+	dynasty = YueFml
+	religion = "sinicization"
+	culture = "han"
+	1045.3.24 = {
+		birth = yes
 	}
-	1089.1.27={
-		death=yes
+	1089.1.27 = {
+		death = yes
 	}
 }
 
 hanshizhong = {
-	name=Shizhong
-	dynasty=HanFml
-	religion="sinicization"
-	culture="han"
-	1046.1.26={
-		birth=yes
+	name = Shizhong
+	dynasty = HanFml
+	religion = "sinicization"
+	culture = "han"
+	1046.1.26 = {
+		birth = yes
 	}
-	1098.9.15={
-		death=yes
+	1098.9.15 = {
+		death = yes
 	}
 }
 
 # Su family
 suxun = {
-	name=Xun
-	dynasty=SuFml
-	religion="sinicization"
-	culture="han"
-	1009.5.22={
-		birth=yes
+	name = Xun
+	dynasty = SuFml
+	religion = "sinicization"
+	culture = "han"
+	1009.5.22 = {
+		birth = yes
 	}
-	1066.5.21={
-		death=yes
+	1066.5.21 = {
+		death = yes
 	}
 }
 
 sushi = {
-	name=Shi
-	dynasty=SuFml
-	religion="sinicization"
-	culture="han"
-	father=suxun
-	1037.1.8={
-		birth=yes
+	name = Shi
+	dynasty = SuFml
+	religion = "sinicization"
+	culture = "han"
+	father = suxun
+	martial = 5
+	diplomacy = 3
+	intrigue = 6
+	stewardship = 19
+	trait = scholar
+	trait = gluttonous
+	trait = content
+	1037.1.8 = {
+		birth = yes
 	}
-	1087.1.1={
+	1087.1.1 = {
 		add_spouse = wangzhaoyun
 	}
-	1101.8.24={
-		death=yes
+	1101.8.24 = {
+		death = yes
 	}
 }
 
 suzhe = {
-	name=Zhe
-	dynasty=SuFml
-	religion="sinicization"
-	culture="han"
-	father=suxun
-	1039.3.18={
-		birth=yes
+	name = Zhe
+	dynasty = SuFml
+	religion = "sinicization"
+	culture = "han"
+	father = suxun
+	trait = content
+	1039.3.18 = {
+		birth = yes
 	}
-	1112.10.25={
-		death=yes
+	1112.10.25 = {
+		death = yes
 	}
 }
 
 wangzhaoyun = {
-	name=Zhaoyun
-	dynasty=WangFml
-	religion="sinicization"
-	culture="han"
+	name = Zhaoyun
+	dynasty = WangFml
+	religion = "sinicization"
+	culture = "han"
 	female = yes
-	1062.1.1={
-		birth=yes
+	1062.1.1 = {
+		birth = yes
 	}
-	1106.1.1={
-		death=yes
+	1106.1.1 = {
+		death = yes
 	}
 }
 
 # Yang family
 yangye = {
-	name=Ye
-	dynasty=YangFml
-	religion="sinicization"
-	culture="han"
-	986.1.1={
-		birth=yes
+	name = Ye
+	dynasty = YangFml
+	religion = "sinicization"
+	culture = "han"
+	martial = 25
+	diplomacy = 9
+	intrigue = 2
+	stewardship = 2
+	trait = brave
+	trait = education_martial_2
+	986.1.1 = {
+		birth = yes
 	}
-	1086.1.1={
-		death=yes
+	1086.1.1 = {
+		death = yes
 	}
 }
 
 yangyanzhao = {
-	name=Yanzhao
-	dynasty=YangFml
-	religion="sinicization"
-	culture="han"
-	father=yangye
-	1058.1.1={
-		birth=yes
+	name = Yanzhao
+	dynasty = YangFml
+	religion = "sinicization"
+	culture = "han"
+	father = yangye
+	martial = 15
+	diplomacy = 2
+	intrigue = 1
+	stewardship = 2
+	trait = brave
+	trait = education_martial_3
+	1058.1.1 = {
+		birth = yes
 	}
-	1080.1.1={
+	1080.1.1 = {
 		add_spouse = caosaihua
 	}
-	1114.1.1={
-		death=yes
+	1114.1.1 = {
+		death = yes
 	}
 }
+
 caosaihua = {
-	name=Saihua
-	dynasty=CaoFml
-	religion="sinicization"
-	culture="han"
+	name = Saihua
+	dynasty = CaoFml
+	religion = "sinicization"
+	culture = "han"
 	female = yes
-	1056.1.1={
-		birth=yes
+	1056.1.1 = {
+		birth = yes
 	}
-	1101.1.1={
-		death=yes
+	1101.1.1 = {
+		death = yes
 	}
 }
+
 yangwenguang = {
-	name=Wenguang
-	dynasty=YangFml
-	religion="sinicization"
-	culture="han"
-	father=yangyanzhao
-	mother=caosaihua
-	1088.1.1={
-		birth=yes
+	name = Wenguang
+	dynasty = YangFml
+	religion = "sinicization"
+	culture = "han"
+	father = yangyanzhao
+	mother = caosaihua
+	1088.1.1 = {
+		birth = yes
 	}
-	1174.1.1={
-		death=yes
+	1174.1.1 = {
+		death = yes
 	}
 }
