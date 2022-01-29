@@ -25,7 +25,7 @@ https://github.com/fishenal/ck3-sinicization
 
 
 
-# Alternative History: Chinese Song Dynasty invaded France
+# Alternative History: Chinese Song Dynasty invaded France - English player friendly
 
 ## Background：
 Around 1000 AD, a group of nobles and scholar-officials from the Northern Song Dynasty came to Europe by boat. They landed near the Brittany in France, and began their exploration in Europe.
