@@ -1,0 +1,195 @@
+﻿e_china = {
+	pattern = "pattern_chevron_01.dds"
+	color1 = "red"
+	color2 = "purple"
+	colored_emblem = {
+		texture = "ce_thunder_dragon.dds"
+		color1 = "white"
+		color2 = "yellow"
+		instance = {
+			position = {
+				0.5
+				0.48
+			}
+			rotation = -15
+		}
+	}
+}
+
+k_west_song = {
+	pattern = "pattern_solid.dds"
+	color1 = "red"
+	colored_emblem = {
+		texture = "ce_song.dds"
+		color1 = "yellow_light"
+	}
+}
+
+# # d_hexi
+# d_hexi = {
+# }
+# c_henanfu = {
+# }
+# c_xuzhou = {
+# }
+# c_caizhou = {
+# }
+# c_qinzhou = {
+# }
+# c_jingzhaofu = {
+# }
+# c_bingzhou = {
+# }
+# # d_xichuan
+# d_xichuan = {
+# }
+# c_yizhou = {
+# }
+# c_mianzhou = {
+# }
+# c_tanzhou = {
+# }
+# c_jianglingfu = {
+# }
+# # d_jingdong
+# d_jingdong = {
+# }
+# c_yanzhou = {
+# }
+# c_jinzhou = {
+# }
+# c_qingzhou = {
+# }
+# c_qizhou = {
+# }
+# c_dengzhou = {
+# }
+# # d_huainan
+# d_huainan = {
+# }
+# c_hangzhou = {
+# }
+# c_wujun = {
+# }
+# c_huainan = {
+# }
+# c_fuzhou = {
+# }
+# d_jingji
+# d_jingji = {
+# 	pattern = "pattern_solid.dds"
+# 	color1 = "blue"
+# 	color2 = "yellow"
+# 	colored_emblem = {
+# 		texture = "ce_chinese_1.dds"
+# 		color1 = "black"
+# 	}
+# }
+# c_kaifeng = {
+# }
+# c_damingfu = {
+# }
+# c_cangzhou = {
+# }
+# c_dingzhou = {
+# }
+LiuFml = {
+	pattern = "pattern_solid.dds"
+	color1 = "yellow"
+	colored_emblem = {
+		texture = "ce_liu.dds"
+		instance = {
+			scale = {
+				0.8
+				0.8
+			}
+		}
+	}
+}
+
+ZhaoFml = {
+	pattern = "pattern_solid.dds"
+	color1 = "red"
+	colored_emblem = {
+		texture = "ce_zhao.dds"
+		instance = {
+			scale = {
+				0.8
+				0.8
+			}
+		}
+	}
+}
+
+WangFml = {
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "grey"
+	color2 = "white"
+	colored_emblem = {
+		texture = "ce_wang.dds"
+		instance = {
+			scale = {
+				0.8
+				0.8
+			}
+		}
+	}
+}
+
+FanFml = {
+	pattern = "pattern_solid.dds"
+	color1 = "purple"
+	colored_emblem = {
+		texture = "ce_fan.dds"
+		instance = {
+			scale = {
+				0.8
+				0.8
+			}
+		}
+	}
+}
+
+SuFml = {
+	pattern = "pattern_horizontal_split_01.dds"
+	color1 = "green"
+	color2 = "green_light"
+	colored_emblem = {
+		texture = "ce_su.dds"
+		instance = {
+			scale = {
+				0.8
+				0.8
+			}
+		}
+	}
+}
+
+YangFml = {
+	pattern = "pattern_solid.dds"
+	color1 = "brown"
+	colored_emblem = {
+		texture = "ce_yang.dds"
+		instance = {
+			scale = {
+				0.8
+				0.8
+			}
+		}
+	}
+}
+
+HanFml = {
+	pattern = "pattern_vertical_split_01.dds"
+	color1 = "brown"
+	color2 = "green_light"
+	colored_emblem = {
+		texture = "ce_han.dds"
+		instance = {
+			scale = {
+				0.8
+				0.8
+			}
+		}
+	}
+}
