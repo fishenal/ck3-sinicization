@@ -116,7 +116,7 @@
 									has_government = theocracy_government
 								}
 							}
-							portrait_chinese_clothing_trigger = yes
+							portrait_chinese_clothing_spouse_trigger = yes
 						}
 					}
 				}
@@ -192,7 +192,7 @@
 									has_government = theocracy_government
 								}
 							}
-							portrait_chinese_clothing_trigger = yes
+							portrait_chinese_clothing_spouse_trigger = yes
 						}
 					}
 				}
