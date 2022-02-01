@@ -1,131 +1,133 @@
 ﻿# Zhao family
 zhaohongyin = {
-	name=Hongyin
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	899.1.1={
-		birth=yes
+	name = Hongyin
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	899.1.1 = {
+		birth = yes
 	}
-	956.1.1={
-		death=yes
+	956.1.1 = {
+		death = yes
 	}
 }
 
 zhaokuangyin = {
-	name=Kuangyin
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaohongyin
-	927.1.1={
-		birth=yes
+	name = Kuangyin
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaohongyin
+	927.1.1 = {
+		birth = yes
 	}
-	976.1.1={
-		death=yes
+	976.1.1 = {
+		death = yes
 	}
 }
 
 zhaoguangyi = {
-	name=Guangyi
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaohongyin
-	939.1.1={
-		birth=yes
+	name = Guangyi
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaohongyin
+	939.1.1 = {
+		birth = yes
 	}
-	997.5.8={
-		death=yes
+	997.5.8 = {
+		death = yes
 	}
 }
 
 zhaoheng = {
-	name=Heng
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaoguangyi
-	968.12.23={
-		birth=yes
+	name = Heng
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaoguangyi
+	968.12.23 = {
+		birth = yes
 	}
-	1022.3.23={
-		death=yes
+	1022.3.23 = {
+		death = yes
 	}
 }
 
 zhaozhen = {
-	name=Zhen
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaoheng
-	1010.5.30={
-		birth=yes
+	name = Zhen
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaoheng
+	1010.5.30 = {
+		birth = yes
 	}
-	1063.4.30={
-		death=yes
+	1063.4.30 = {
+		death = yes
 	}
 }
 
 zhaoshu = {
-	name=Shu
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaozhen
-	1032.2.16={
-		birth=yes
+	name = Shu
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaozhen
+	1032.2.16 = {
+		birth = yes
 	}
-	1067.1.25={
-		death=yes
+	1067.1.25 = {
+		death = yes
 	}
 }
 
 zhaoxu = {
-	name=Xu
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaoshu
+	name = Xu
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaoshu
 	martial = 4
 	diplomacy = 18
 	intrigue = 12
 	stewardship = 9
-	1048.5.25={
-		birth=yes
+	1038.5.25 = {
+		birth = yes
 	}
-	1068.5.5={
-		add_spouse=zhanghuanghou
+	1068.5.5 = {
+		add_spouse = zhanghuanghou
 	}
-	1085.4.1={
-		death=yes
+	1085.4.1 = {
+		death = yes
 	}
 }
+
 zhanghuanghou = {
-	name=Jing
-	dynasty=ZhangFml
-	religion="sinicization"
-	culture="han"
+	name = Jing
+	dynasty = ZhangFml
+	religion = "sinicization"
+	culture = "han"
 	female = yes
-	1052.1.1={
-		birth=yes
+	1052.1.1 = {
+		birth = yes
 	}
-	1108.11.1={
-		death=yes
+	1108.11.1 = {
+		death = yes
 	}
 }
+
 zhaohao = {
-	name=Hao
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaoshu
+	name = Hao
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaoshu
 	martial = 5
 	diplomacy = 20
 	intrigue = 10
 	stewardship = 18
-	prowess=14
+	prowess = 14
 	trait = honest
 	trait = education_diplomacy_3
 	trait = education_learning_3
@@ -133,113 +135,118 @@ zhaohao = {
 	trait = ambitious
 	trait = temperate
 	trait = callous
-	1046.5.25={
-		birth=yes
+	1036.5.25 = {
+		birth = yes
 	}
-	1063.1.1={
-		add_spouse=caohuanghou
+	1056.1.1 = {
+		add_spouse = caohuanghou
 	}
-	1090.4.1={
-		death=yes
+	1090.4.1 = {
+		death = yes
 	}
 }
+
 caohuanghou = {
-	name=Mei
-	dynasty=CaoFml
-	religion="sinicization"
-	culture="han"
+	name = Mei
+	dynasty = CaoFml
+	religion = "sinicization"
+	culture = "han"
 	female = yes
-	1052.1.1={
-		birth=yes
+	1040.1.1 = {
+		birth = yes
 	}
-	1108.11.1={
-		death=yes
+	1108.11.1 = {
+		death = yes
 	}
 }
+
 zhaoyu = {
-	name=Yu
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaohao
-	mother=caohuanghou
-	1064.1.10={
-		birth=yes
+	name = Yu
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaohao
+	mother = caohuanghou
+	1058.1.10 = {
+		birth = yes
 	}
-	1132.4.1={
-		death=yes
+	1132.4.1 = {
+		death = yes
 	}
 }
+
 zhaojin = {
-	name=Jin
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaoshu
-	1050.5.25={
-		birth=yes
+	name = Jin
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaoshu
+	1050.5.25 = {
+		birth = yes
 	}
-	1066.1.1={
+	1066.1.1 = {
 		add_spouse = liuhuanghou
 	}
-	1121.1.1={
-		death=yes
+	1121.1.1 = {
+		death = yes
 	}
 }
+
 liuhuanghou = {
-	name=Ai
-	dynasty=LiuFml
-	religion="sinicization"
-	culture="han"
+	name = Ai
+	dynasty = LiuFml
+	religion = "sinicization"
+	culture = "han"
 	female = yes
-	1058.1.1={
-		birth=yes
+	1058.1.1 = {
+		birth = yes
 	}
-	1140.11.1={
-		death=yes
+	1140.11.1 = {
+		death = yes
 	}
 }
+
 zhaoxun = {
-	name=Xun
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaoxu
-	1077.1.4={
-		birth=yes
+	name = Xun
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaoxu
+	1077.1.4 = {
+		birth = yes
 	}
-	1100.2.23={
-		death=yes
+	1100.2.23 = {
+		death = yes
 	}
 }
 
 zhaoji = {
-	name=Ji
-	dynasty=ZhaoFml
-	religion="sinicization"
-	culture="han"
-	father=zhaoxu
-	1082.11.2={
-		birth=yes
+	name = Ji
+	dynasty = ZhaoFml
+	religion = "sinicization"
+	culture = "han"
+	father = zhaoxu
+	1082.11.2 = {
+		birth = yes
 	}
-	1100.1.1={
+	1100.1.1 = {
 		add_spouse = wanghuanghou
 	}
-	1135.6.4={
-		death=yes
-	}
-}
-wanghuanghou = {
-	name=Yanyan
-	dynasty=WangFml
-	religion="sinicization"
-	culture="han"
-	female = yes
-	1084.1.1={
-		birth=yes
-	}
-	1108.11.1={
-		death=yes
+	1135.6.4 = {
+		death = yes
 	}
 }
 
+wanghuanghou = {
+	name = Yanyan
+	dynasty = WangFml
+	religion = "sinicization"
+	culture = "han"
+	female = yes
+	1084.1.1 = {
+		birth = yes
+	}
+	1108.11.1 = {
+		death = yes
+	}
+}
