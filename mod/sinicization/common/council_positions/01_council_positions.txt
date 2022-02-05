@@ -379,13 +379,8 @@ councillor_court_chaplain = {
 	portrait_animation = chaplain
 }
 councillor_spouse = {
-	auto_fill = {
-		trigger_if = {
-			NOT = {
-				has_culture_group = culture_group:chinese_group
-			}
-		}
-	}
+	special_council_position = yes
+	auto_fill = yes
 	can_fire = {
 		trigger_if = {
 			has_culture_group = culture_group:chinese_group
