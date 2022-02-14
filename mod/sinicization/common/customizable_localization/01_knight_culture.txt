@@ -1,0 +1,9 @@
+﻿KnightCulture = {
+	type = character
+	text = {
+		trigger = {
+			culture = { has_cultural_pillar = language_chinese }
+		}
+		localization_key = knight_general
+	}
+}
