@@ -1,4 +1,4 @@
-version="0.1"
+version="1.0"
 tags={
 	"Culture"
 	"Historical"
@@ -7,5 +7,5 @@ tags={
 	"Translation"
 }
 name="Sinicization"
-supported_version="1.4.4"
-path="~/Documents/Paradox Interactive/Crusader Kings III/mod/sinicization"
+supported_version="1.5.0.1"
+path="/Users/yudonghan/Documents/Paradox Interactive/Crusader Kings III/mod/sinicization"
