@@ -36,7 +36,7 @@ baron_feudal_male_chinese = {
 	tier = barony
 	priority = 50
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 baron_feudal_female_chinese = {
 	type = character
@@ -45,7 +45,7 @@ baron_feudal_female_chinese = {
 	tier = barony
 	priority = 50
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 count_feudal_male_chinese = {
 	type = character
@@ -54,7 +54,7 @@ count_feudal_male_chinese = {
 	tier = county
 	priority = 60
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 count_feudal_female_chinese = {
 	type = character
@@ -63,7 +63,7 @@ count_feudal_female_chinese = {
 	tier = county
 	priority = 60
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 duke_feudal_male_chinese = {
 	type = character
@@ -72,7 +72,7 @@ duke_feudal_male_chinese = {
 	tier = duchy
 	priority = 60
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 duke_feudal_female_chinese = {
 	type = character
@@ -81,7 +81,7 @@ duke_feudal_female_chinese = {
 	tier = duchy
 	priority = 60
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 king_feudal_male_chinese = {
 	type = character
@@ -90,7 +90,7 @@ king_feudal_male_chinese = {
 	tier = kingdom
 	priority = 60
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 king_feudal_female_chinese = {
 	type = character
@@ -99,7 +99,7 @@ king_feudal_female_chinese = {
 	tier = kingdom
 	priority = 60
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 emperor_feudal_male_chinese = {
 	type = character
@@ -108,7 +108,7 @@ emperor_feudal_male_chinese = {
 	tier = empire
 	priority = 300
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 emperor_feudal_female_chinese = {
 	type = character
@@ -117,7 +117,7 @@ emperor_feudal_female_chinese = {
 	tier = empire
 	priority = 300
 	governments = { feudal_government clan_government tribal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 
 barony_feudal_chinese = {
@@ -125,20 +125,20 @@ barony_feudal_chinese = {
 	tier = barony
 	priority = 50
 	governments = { feudal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 county_feudal_chinese = {
 	type = title
 	tier = county
 	priority = 50
 	governments = { feudal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 duchy_feudal_chinese = {
 	type = title
 	tier = duchy
 	governments = { feudal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 	priority = 50
 }
 # Independent dukes of certain culture groups are known as Petty Kings instead of Dukes
@@ -150,7 +150,7 @@ duke_feudal_independent_chinese = {
 	priority = 50
 	only_independent = yes
 	governments = { feudal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 duke_feudal_independent_female_chinese = {
 	type = character
@@ -160,13 +160,13 @@ duke_feudal_independent_female_chinese = {
 	priority = 50
 	only_independent = yes
 	governments = { feudal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 duchy_feudal_independent_chinese = {
 	type = title
 	tier = duchy
 	governments = { feudal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 	only_independent = yes
 	priority = 50
 }
@@ -175,7 +175,7 @@ kingdom_feudal_chinese = {
 	tier = kingdom
 	priority = 50
 	governments = { feudal_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 baron_republic_male_chinese = {
 	type = character
@@ -185,7 +185,7 @@ baron_republic_male_chinese = {
 	priority = 40
 	top_liege = no
 	governments = { republic_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 baron_republic_female_chinese = {
 	type = character
@@ -195,7 +195,7 @@ baron_republic_female_chinese = {
 	priority = 40
 	top_liege = no
 	governments = { republic_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 barony_republic_chinese = {
 	type = title
@@ -203,7 +203,7 @@ barony_republic_chinese = {
 	top_liege = no
 	priority = 40
 	governments = { republic_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 count_republic_male_chinese = {
 	type = character
@@ -213,7 +213,7 @@ count_republic_male_chinese = {
 	priority = 40
 	top_liege = no
 	governments = { republic_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 count_republic_female_chinese = {
 	type = character
@@ -223,7 +223,7 @@ count_republic_female_chinese = {
 	priority = 40
 	top_liege = no
 	governments = { republic_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }
 county_republic_chinese = {
 	type = title
@@ -231,5 +231,5 @@ county_republic_chinese = {
 	priority = 40
 	top_liege = no
 	governments = { republic_government }
-	culture_groups = { chinese_group }
+	heritages = { heritage_chinese }
 }

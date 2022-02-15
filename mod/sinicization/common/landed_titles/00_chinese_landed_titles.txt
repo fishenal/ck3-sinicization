@@ -160,9 +160,6 @@
 						255
 						255
 					}
-					cultural_names = {
-						breton = cn_kemper
-					}
 				}
 				b_xincai = {
 					province = 2155
@@ -302,9 +299,6 @@
 						255
 						255
 						255
-					}
-					cultural_names = {
-						breton = cn_roazhon
 					}
 				}
 				b_yuci = {
