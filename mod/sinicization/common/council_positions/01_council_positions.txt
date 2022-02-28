@@ -64,15 +64,7 @@ councillor_spymaster = {
 }
 
 councillor_court_chaplain = {
-	auto_fill = {
-		trigger_if = {
-			NOT = {
-				scope:councillor_liege = {
-					culture = { has_cultural_pillar = language_chinese }
-				}
-			}
-		}
-	}
+	auto_fill = yes
 	can_fire = {
 		custom_description = {
 			text = "court_chaplain_cant_fire_doctrines"
